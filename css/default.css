@@ -1,5 +1,8 @@
 /* ------ mobilyslider
 -----------------------------------------------*/
+#Title a{
+		text-decoration:  none;
+}
 
 .slider {
 		float:left;
